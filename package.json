@@ -1,7 +1,6 @@
 {
   "name": "foodordering",
   "version": "1.0.0",
-  "description": "Online Food Ordering Application",
   "type": "module",
   "main": "httpServer.js",
   "scripts": {
@@ -9,6 +8,6 @@
     "express": "node expressApp.js"
   },
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.3.0"
   }
 }
